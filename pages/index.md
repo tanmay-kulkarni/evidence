@@ -63,7 +63,7 @@ Last month customers placed **<Value data={orders_by_month} column=number_of_ord
 
 ### Data Table
 
-<DataTable data={orders_by_month} rows=15/>
+<DataTable data={orders_by_month} rows=3/>
 
 > **More:** See [all components](https://docs.evidence.dev/components/all-components)
 
